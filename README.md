@@ -1,1 +1,1 @@
-# laravel-fargate-infra
+# Terraform for fargate setup template
